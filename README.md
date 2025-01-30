@@ -1,5 +1,6 @@
-<p align="left">Check out my study org: https://github.com/huji-itmo</p>
 
+### 🏢 Check out my studying repos
+[![HUJI ITMO](https://img.shields.io/badge/GitHub-HUJI_ITMO-181717?style=for-the-badge&logo=github)](https://github.com/huji-itmo)
 
 
 ###
