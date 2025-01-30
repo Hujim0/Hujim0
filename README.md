@@ -1,4 +1,4 @@
-<p align="left">Hello World!!</p>
+<p align="left">Check out my study org: https://github.com/huji-itmo</p>
 
 
 
