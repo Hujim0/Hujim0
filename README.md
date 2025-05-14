@@ -8,9 +8,9 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img height="300" src="https://media1.tenor.com/m/79olVFRJwD0AAAAd/%D0%B2%D0%BE%D1%82-%D0%BA%D0%BE%D0%BC%D1%83-%D1%82%D0%BE.gif"  />
-</div>
+</div> -->
 
 ###
 
