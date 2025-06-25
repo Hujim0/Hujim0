@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hujim0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin-mocha&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hujim0&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=5&theme=catppuccin-mocha&hide_border=false&order=2" height="200" alt="languages graph"  />
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-orcin.vercel.app?user=Hujim0&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
 </div>
 
