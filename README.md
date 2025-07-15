@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hujim0&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=5&theme=dracula&hide_border=false&order=2" height="196" alt="languages graph"  />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-orcin.vercel.app?user=Hujim0&theme=dracula" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-orcin.vercel.app?user=Hujim0&theme=github-dark-dimmed" alt="GitHub Streak" /></a>
 </div>
 
 ###
