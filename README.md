@@ -1,5 +1,6 @@
 
 ### Proud 🦎🪽✨⬆️☁️
+[![wakatime](https://wakatime.com/badge/user/d8982eb8-6f23-46a7-bfe4-372df9ce0af5.svg)](https://wakatime.com/@d8982eb8-6f23-46a7-bfe4-372df9ce0af5)
 
 
 ### 🏢 Check out my studying repos
